@@ -1,186 +1,178 @@
 [
-    {
-        "sentence": "Ħej!",
-        "audio_stop": 1.1247708333333333
-    },
-    {
-        "sentence": "Kif int illum?",
-        "audio_stop": 2.8247916666666666
-    },
-    {
-        "sentence": "Jien tajjeb, grazzi.",
-        "audio_stop": 4.8622708333333335
-    },
-    {
-        "sentence": "U int?",
-        "audio_stop": 6.174791666666667
-    },
-    {
-        "sentence": "Jien ukoll tajjeb.",
-        "audio_stop": 8.112291666666666
-    },
-    {
-        "sentence": "X'qed tagħmel?",
-        "audio_stop": 9.737291666666666
-    },
-    {
-        "sentence": "Qed nistudja l-Malti.",
-        "audio_stop": 11.862270833333334
-    },
-    {
-        "sentence": "Huwa ftit diffiċli, imma interessanti.",
-        "audio_stop": 14.924770833333334
-    },
-    {
-        "sentence": "Oh, tassew?",
-        "audio_stop": 16.674791666666668
-    },
-    {
-        "sentence": "Il-Malti huwa lingwa sabiħa!",
-        "audio_stop": 19.199770833333332
-    },
-    {
-        "sentence": "Fejn qed tistudja?",
-        "audio_stop": 21.162270833333334
-    },
-    {
-        "sentence": "Qed nistudja d-dar, b'ktieb u xi applikazzjonijiet.",
-        "audio_stop": 24.749770833333333
-    },
-    {
-        "sentence": "Tajjeb ħafna!",
-        "audio_stop": 26.487291666666668
-    },
-    {
-        "sentence": "Tixtieq nipprattikaw flimkien?",
-        "audio_stop": 28.949770833333332
-    },
-    {
-        "sentence": "Iva!",
-        "audio_stop": 30.274791666666665
-    },
-    {
-        "sentence": "Dik idea tajba ħafna.",
-        "audio_stop": 32.362291666666664
-    },
-    {
-        "sentence": "Allura, x'inhu ismek?",
-        "audio_stop": 34.51229166666667
-    },
-    {
-        "sentence": "Jisimni Mark.",
-        "audio_stop": 36.274791666666665
-    },
-    {
-        "sentence": "U ismek?",
-        "audio_stop": 37.76229166666667
-    },
-    {
-        "sentence": "Jisimni Lisa.",
-        "audio_stop": 39.54977083333333
-    },
-    {
-        "sentence": "Pjaċir, Lisa.",
-        "audio_stop": 41.42477083333333
-    },
-    {
-        "sentence": "Pjaċir, Mark.",
-        "audio_stop": 43.26229166666667
-    },
-    {
-        "sentence": "Kemm għandek żmien?",
-        "audio_stop": 45.01229166666667
-    },
-    {
-        "sentence": "Għandi ħmistax-il sena.",
-        "audio_stop": 47.087270833333335
-    },
-    {
-        "sentence": "U int?",
-        "audio_stop": 48.399791666666665
-    },
-    {
-        "sentence": "Għandi sittax-il sena.",
-        "audio_stop": 50.41227083333333
-    },
-    {
-        "sentence": "Fejn toqgħod?",
-        "audio_stop": 52.03727083333333
-    },
-    {
-        "sentence": "Noqgħod il-Belt Valletta.",
-        "audio_stop": 54.18729166666667
-    },
-    {
-        "sentence": "U int?",
-        "audio_stop": 55.49979166666667
-    },
-    {
-        "sentence": "Noqgħod Ħaż-Żebbuġ.",
-        "audio_stop": 57.51229166666667
-    },
-    {
-        "sentence": "Oh, sabiħ!",
-        "audio_stop": 59.212291666666665
-    },
-    {
-        "sentence": "Il-Belt Valletta hija post storiku ħafna.",
-        "audio_stop": 62.274770833333335
-    },
-    {
-        "sentence": "Iva, għandha ħafna knejjes u mużewijiet.",
-        "audio_stop": 65.36227083333333
-    },
-    {
-        "sentence": "Ħaż-Żebbuġ huwa kwiet u għandu ħafna ġonna.",
-        "audio_stop": 68.44979166666667
-    },
-    {
-        "sentence": "Tajjeb.",
-        "audio_stop": 69.91229166666666
-    },
-    {
-        "sentence": "X'tixtieq tagħmel issa?",
-        "audio_stop": 71.91229166666666
-    },
-    {
-        "sentence": "Nistgħu mmorru nieklu xi ħaġa?",
-        "audio_stop": 74.34979166666666
-    },
-    {
-        "sentence": "Iva!",
-        "audio_stop": 75.67479166666666
-    },
-    {
-        "sentence": "Għandi l-ġuħ.",
-        "audio_stop": 77.31229166666667
-    },
-    {
-        "sentence": "X'tixtieq tiekol?",
-        "audio_stop": 79.19977083333333
-    },
-    {
-        "sentence": "Ejja nieklu pastizzi!",
-        "audio_stop": 81.41227083333334
-    },
-    {
-        "sentence": "Pastizzi?",
-        "audio_stop": 82.89977083333333
-    },
-    {
-        "sentence": "Perfett!",
-        "audio_stop": 84.34977083333334
-    },
-    {
-        "sentence": "Ejja mmorru!",
-        "audio_stop": 85.99979166666667
-    },
-    {
-        "sentence": "Grazzi ħafna, Lisa!",
-        "audio_stop": 88.09979166666666
-    },
-    {
-        "sentence": "M'hemmx għalfejn, Mark!",
-        "audio_stop": 90.12479166666667
-    }
+  {
+    "sentence": "Ħej! Kif int illum?",
+    "audio_stop": 2.8247916666666666
+  },
+  {
+    "sentence": "Jien tajjeb, grazzi.",
+    "audio_stop": 4.8622708333333335
+  },
+  {
+    "sentence": "U int?",
+    "audio_stop": 6.174791666666667
+  },
+  {
+    "sentence": "Jien ukoll tajjeb.",
+    "audio_stop": 8.112291666666666
+  },
+  {
+    "sentence": "X'qed tagħmel?",
+    "audio_stop": 9.737291666666666
+  },
+  {
+    "sentence": "Qed nistudja l-Malti.",
+    "audio_stop": 11.862270833333334
+  },
+  {
+    "sentence": "Huwa ftit diffiċli, imma interessanti.",
+    "audio_stop": 14.924770833333334
+  },
+  {
+    "sentence": "Oh, tassew?",
+    "audio_stop": 16.674791666666668
+  },
+  {
+    "sentence": "Il-Malti huwa lingwa sabiħa!",
+    "audio_stop": 19.199770833333332
+  },
+  {
+    "sentence": "Fejn qed tistudja?",
+    "audio_stop": 21.162270833333334
+  },
+  {
+    "sentence": "Qed nistudja d-dar, b'ktieb u xi applikazzjonijiet.",
+    "audio_stop": 24.749770833333333
+  },
+  {
+    "sentence": "Tajjeb ħafna!",
+    "audio_stop": 26.487291666666668
+  },
+  {
+    "sentence": "Tixtieq nipprattikaw flimkien?",
+    "audio_stop": 28.949770833333332
+  },
+  {
+    "sentence": "Iva!",
+    "audio_stop": 30.274791666666665
+  },
+  {
+    "sentence": "Dik idea tajba ħafna.",
+    "audio_stop": 32.362291666666664
+  },
+  {
+    "sentence": "Allura, x'inhu ismek?",
+    "audio_stop": 34.51229166666667
+  },
+  {
+    "sentence": "Jisimni Mark.",
+    "audio_stop": 36.274791666666665
+  },
+  {
+    "sentence": "U ismek?",
+    "audio_stop": 37.76229166666667
+  },
+  {
+    "sentence": "Jisimni Lisa.",
+    "audio_stop": 39.54977083333333
+  },
+  {
+    "sentence": "Pjaċir, Lisa.",
+    "audio_stop": 41.42477083333333
+  },
+  {
+    "sentence": "Pjaċir, Mark.",
+    "audio_stop": 43.26229166666667
+  },
+  {
+    "sentence": "Kemm għandek żmien?",
+    "audio_stop": 45.01229166666667
+  },
+  {
+    "sentence": "Għandi ħmistax-il sena.",
+    "audio_stop": 47.087270833333335
+  },
+  {
+    "sentence": "U int?",
+    "audio_stop": 48.399791666666665
+  },
+  {
+    "sentence": "Għandi sittax-il sena.",
+    "audio_stop": 50.41227083333333
+  },
+  {
+    "sentence": "Fejn toqgħod?",
+    "audio_stop": 52.03727083333333
+  },
+  {
+    "sentence": "Noqgħod il-Belt Valletta.",
+    "audio_stop": 54.18729166666667
+  },
+  {
+    "sentence": "U int?",
+    "audio_stop": 55.49979166666667
+  },
+  {
+    "sentence": "Noqgħod Ħaż-Żebbuġ.",
+    "audio_stop": 57.51229166666667
+  },
+  {
+    "sentence": "Oh, sabiħ!",
+    "audio_stop": 59.212291666666665
+  },
+  {
+    "sentence": "Il-Belt Valletta hija post storiku ħafna.",
+    "audio_stop": 62.274770833333335
+  },
+  {
+    "sentence": "Iva, għandha ħafna knejjes u mużewijiet.",
+    "audio_stop": 65.36227083333333
+  },
+  {
+    "sentence": "Ħaż-Żebbuġ huwa kwiet u għandu ħafna ġonna.",
+    "audio_stop": 68.44979166666667
+  },
+  {
+    "sentence": "Tajjeb.",
+    "audio_stop": 69.91229166666666
+  },
+  {
+    "sentence": "X'tixtieq tagħmel issa?",
+    "audio_stop": 71.91229166666666
+  },
+  {
+    "sentence": "Nistgħu mmorru nieklu xi ħaġa?",
+    "audio_stop": 74.34979166666666
+  },
+  {
+    "sentence": "Iva!",
+    "audio_stop": 75.67479166666666
+  },
+  {
+    "sentence": "Għandi l-ġuħ.",
+    "audio_stop": 77.31229166666667
+  },
+  {
+    "sentence": "X'tixtieq tiekol?",
+    "audio_stop": 79.19977083333333
+  },
+  {
+    "sentence": "Ejja nieklu pastizzi!",
+    "audio_stop": 81.41227083333334
+  },
+  {
+    "sentence": "Pastizzi? Perfett!",
+    "audio_stop": 84.34977083333334
+  },
+  {
+    "sentence": "Ejja mmorru!",
+    "audio_stop": 85.99979166666667
+  },
+  {
+    "sentence": "Grazzi ħafna, Lisa!",
+    "audio_stop": 88.09979166666666
+  },
+  {
+    "sentence": "M'hemmx għalfejn, Mark!",
+    "audio_stop": 90.12479166666668
+  }
 ]
