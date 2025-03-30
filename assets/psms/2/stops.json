@@ -1,70 +1,70 @@
 [
     {
-        "sentence": "Illum morna s-suq, u kien hemm ħafna ħxejjex friski!",
+        "sentence": "Persuna 1: Illum morna s-suq, u kien hemm ħafna ħxejjex friski!",
         "audio_stop": 3.5122916666666666
     },
     {
-        "sentence": "Xtrajtu tadam aħmar, karrotti oranġjo, u ħjar aħdar.",
+        "sentence": "Persuna 1: Xtrajtu tadam aħmar, karrotti oranġjo, u ħjar aħdar.",
         "audio_stop": 7.374770833333334
     },
     {
-        "sentence": "Tadam u ħjar huma tajbin għas-salata, u l-karrotti huma ħelwin ukoll.",
+        "sentence": "Persuna 2: Tadam u ħjar huma tajbin għas-salata, u l-karrotti huma ħelwin ukoll.",
         "audio_stop": 11.999770833333333
     },
     {
-        "sentence": "Se nagħmel insalata kbira għall-pranzu u soppa tal-karrotti.",
+        "sentence": "Persuna 1: Se nagħmel insalata kbira għall-pranzu u soppa tal-karrotti.",
         "audio_stop": 15.862270833333334
     },
     {
-        "sentence": "Is-soppa tal-karrotti hija delizzjuża, u jien inħobbha ħafna fix-xitwa.",
+        "sentence": "Persuna 2: Is-soppa tal-karrotti hija delizzjuża, u jien inħobbha ħafna fix-xitwa.",
         "audio_stop": 20.587270833333335
     },
     {
-        "sentence": "Xtrajtu wkoll xi brokkoli, li huwa tajjeb għas-saħħa.",
+        "sentence": "Persuna 1: Xtrajtu wkoll xi brokkoli, li huwa tajjeb għas-saħħa.",
         "audio_stop": 24.187270833333333
     },
     {
-        "sentence": "Brokkoli huwa tajjeb, imma jien nippreferi l-pastard, li huwa abjad u artab.",
+        "sentence": "Persuna 2: Brokkoli huwa tajjeb, imma jien nippreferi l-pastard, li huwa abjad u artab.",
         "audio_stop": 29.212270833333335
     },
     {
-        "sentence": "Oh, jien ukoll inħobb il-pastard, u se nixtrih il-ġimgħa d-dieħla.",
+        "sentence": "Persuna 1: Oh, jien ukoll inħobb il-pastard, u se nixtrih il-ġimgħa d-dieħla.",
         "audio_stop": 33.54977083333333
     },
     {
-        "sentence": "Xi ħxejjex oħra tixtieq?",
+        "sentence": "Persuna 2: Xi ħxejjex oħra tixtieq?",
         "audio_stop": 35.812270833333336
     },
     {
-        "sentence": "Il-patata hija tajba wkoll!",
+        "sentence": "Persuna 1: Il-patata hija tajba wkoll!",
         "audio_stop": 38.31229166666667
     },
     {
-        "sentence": "Iva, il-patata hija tajba moqlija jew moħmija, u se nixtri xi patata wkoll.",
+        "sentence": "Persuna 2: Iva, il-patata hija tajba moqlija jew moħmija, u se nixtri xi patata wkoll.",
         "audio_stop": 43.61227083333333
     },
     {
-        "sentence": "Tajjeb ħafna!",
+        "sentence": "Persuna 1: Tajjeb ħafna!",
         "audio_stop": 45.34979166666667
     },
     {
-        "sentence": "Il-ħxejjex jagħmlu ikel tajjeb u b'saħħtu.",
+        "sentence": "Persuna 2: Il-ħxejjex jagħmlu ikel tajjeb u b'saħħtu.",
         "audio_stop": 48.41227083333333
     },
     {
-        "sentence": "Veru, il-ħxejjex huma importanti għal dieta bilanċjata.",
+        "sentence": "Persuna 1: Veru, il-ħxejjex huma importanti għal dieta bilanċjata.",
         "audio_stop": 52.274770833333335
     },
     {
-        "sentence": "Nittama li tgawdi l-ikel tiegħek!",
+        "sentence": "Persuna 2: Nittama li tgawdi l-ikel tiegħek!",
         "audio_stop": 54.78727083333333
     },
     {
-        "sentence": "Grazzi ħafna!",
+        "sentence": "Persuna 1: Grazzi ħafna!",
         "audio_stop": 56.53729166666667
     },
     {
-        "sentence": "Anke int igawdi l-ikel tiegħek!",
+        "sentence": "Persuna 2: Anke int igawdi l-ikel tiegħek!",
         "audio_stop": 58.97477083333333
     }
 ]
