@@ -1,14 +1,82 @@
 [
     {
-        "sentence": "Malta, magħrufa uffiċjalment bħala r-Repubblika ta' Malta, hija repubblika indipendenti, kostituzzjonali, żviluppata fl-Unjoni Ewropea",
+        "sentence": "Rita: Bonġu, Ġanni! X’ġara? Ma rajtekx ġimgħa sħiħa!",
         "audio_stop": 0
     },
     {
-        "sentence": "Il-pajjiż jikkonsisti minn arċipelagu ta' seba' gżejjer li jinsabu fil-Baħar Mediterran, u meqjus pajjiż parti mill-Ewropa t'Isfel, 80 km mill-kosta ta' Sqallija (l-Italja), 288 km fil-Lvant tat-Tuneżija u 300 km fit-Tramuntana tal-Libja",
-        "audio_stop": 8.199770833333334
+        "sentence": "Ġanni: Bonġu, Rita! Iva, kont marid ftit. Issa għandi aptit tajjeb u ġejt nixtri xi ħxejjex friski biex nagħmel ikel bnin.",
+        "audio_stop": 5.3
     },
     {
-        "sentence": "Dawn il-gżejjer igawdu minn klima Mediterranja",
-        "audio_stop": 23.337270833333335
+        "sentence": "Rita: Prosit! Tajjeb li qed tieħu ħsieb saħħtek. Jien ukoll ġejt biex nixtri għal illejla – qed naħseb nagħmel soppa ħaxix u ftit ross mal-ħaxix imsajjar.",
+        "audio_stop": 13.93
+    },
+    {
+        "sentence": "Ġanni: Ħoss delizzjuż! Jien se nagħmel tiġieġa bil-forn biż-żunnarija, patata u basal.",
+        "audio_stop": 23.94
+    },
+    {
+        "sentence": "Rita: Ħoss delizzjuż! Għandi bżonn nitgħallem mingħandek!",
+        "audio_stop": 29.79
+    },
+    {
+        "sentence": "Ġanni: Le, qatt ma ppruvajt. Qed tgħid qara ħamra friska, mhux dik fil-laned, hux?",
+        "audio_stop": 33.87
+    },
+    {
+        "sentence": "Rita: Użajt qatt il-qara ħamra fil-forn? Tgħidlek, toħroġ ħelwa ħafna u togħma sabiħa ma’ tiġieġa.",
+        "audio_stop": 39.82
+    },
+    {
+        "sentence": "Ġanni: Se mmur inħares. U l-bżar ħelu, trid tixtri? Jien nieħu wieħed aħdar u wieħed isfar – jagħtu kulur sabiħ lill-platt.",
+        "audio_stop": 46.4
+    },
+    {
+        "sentence": "Rita: Iva, iva! Hemm waħda tajba ħdejn l-iskutella l-kbira tal-kabocci. U l-prezz mhux għoli żejjed.",
+        "audio_stop": 54.94
+    },
+    {
+        "sentence": "Ġanni: Tajjeb, u rajt kemm hi sabiħa l-insalata rasha? Perfetta għal ħdejn ikla ħafifa.",
+        "audio_stop": 62.62
+    },
+    {
+        "sentence": "Rita: Tajjeb! Għandi niftakar ukoll li għandi bżonn kurrat u fażola friska. Il-fażola tagħti sustanza tajba lis-soppa.",
+        "audio_stop": 68.79
+    },
+    {
+        "sentence": "Ġanni: Naħseb hekk. Il-larinġ u t-tuffieħ jidhru sbieħ ħafna. U għandek raġun – wara ikla tajba, biċċa frott tagħmel differenza.",
+        "audio_stop": 77.24
+    },
+    {
+        "sentence": "Rita: Għidtli tajjeb! Se nieħu waħda wkoll. Qed tixtri xi frott?",
+        "audio_stop": 87.21
+    },
+    {
+        "sentence": "Ġanni: Ħafna! Speċjalment fuq il-pasta jew il-pizza. Illum forsi nixtrih ukoll.",
+        "audio_stop": 92.84
+    },
+    {
+        "sentence": "Rita: U l-ħabaq? Tħobb iżżidu mal-ikel?",
+        "audio_stop": 99.35
+    },
+    {
+        "sentence": "Ġanni: Hekk hu. Inħobb nagħmel ħxejjex friski kuljum, imma xi kultant nieħu kollox f’daqqa biex niffranka ħin.",
+        "audio_stop": 102.87
+    },
+    {
+        "sentence": "Rita: Qed narak qed tagħmel il-ħxejjex kollha għal ġimgħa sħiħa!",
+        "audio_stop": 109.84
+    },
+    {
+        "sentence": "Rita: Għandi mmur, Ġanni. Trid xi għajnuna biex tħallas jew iġorr?",
+        "audio_stop": 113.48
+    },
+    {
+        "sentence": "Ġanni: Le, grazzi ħafna, Rita. Imma prosit tal-pariri – issa naf x’se nipprova fil-kċina!",
+        "audio_stop": 118.09
+    },
+    {
+        "sentence": "Rita: Grazzi lilek ukoll! Ħu ħsieb u narak dalwaqt!",
+        "audio_stop": 124.37
     }
 ]
