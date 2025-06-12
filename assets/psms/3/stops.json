@@ -1,7 +1,7 @@
 [
   {
     "sentence": "Bejjiegħ: Bonġu! X'għandek bżonn illum? Għandi ħaxix frisk li ġie minn Għawdex filgħodu kmieni.",
-    "audio_stop": 5.848843537414966
+    "audio_stop": 0.0
   },
   {
     "sentence": "Xerrej: Bonġu! Qed infittex xi qarabaġħli ħamra u xi ħaxix ieħor għal minestra tal-ħadd.",
@@ -9,7 +9,7 @@
   },
   {
     "sentence": "Bejjiegħ: Iva, dawn il-qarabagħli ħamra ġew minn ta' Għawdex. Żgur li trid xi ftit? Huma ħelwin ħafna.",
-    "audio_stop": 19.482857142857142
+    "audio_stop": 12.867777777777778
   },
   {
     "sentence": "Xerrej: Kemm jiswa l-kilo ta' dawn il-qarabaġħli? Jidhru tajbin ħafna.",
@@ -17,7 +17,7 @@
   },
   {
     "sentence": "Bejjiegħ: Tajjeb, kemm trid? Għandi wkoll ħass u kaboċċa friska mill-Buskett.",
-    "audio_stop": 29.601451247165535
+    "audio_stop": 25.383673469387755
   },
   {
     "sentence": "Xerrej: Iva, nagħti kilo. Għandi bżonn ukoll xi ħass u forsiell jekk għandek.",
@@ -25,7 +25,7 @@
   },
   {
     "sentence": "Bejjiegħ: Le, dawn il-frawli mhumiex mill-Buskett - ġew minn Lija. Imma huma tajbin għal-lunch.",
-    "audio_stop": 40.877755102040815
+    "audio_stop": 35.966961451247165
   },
   {
     "sentence": "Xerrej: Ma għandekx frawli? Tiegħi jħobbu ħafna l-frawli, speċjalment dawk mill-Buskett.",
@@ -33,7 +33,7 @@
   },
   {
     "sentence": "Bejjiegħ: Mela! Tista' tgħid li qed tagħmel shopping tajjeb illum! Il-bzar hawnhekk kollu frisk tal-lum.",
-    "audio_stop": 54.15344671201814
+    "audio_stop": 47.91553287981859
   },
   {
     "sentence": "Xerrej: Alla, kemm għoġobni! Illum qiegħed inħoss li se nagħmel shopping sewwa kemm jiflaħ!",
@@ -41,7 +41,7 @@
   },
   {
     "sentence": "Bejjiegħ: Iva, għandi patata tat-twaħħid ukoll jekk trid. Dawn ġew mill-Mosta u huma perfetti għas-suf.",
-    "audio_stop": 66.79986394557824
+    "audio_stop": 61.01120181405896
   },
   {
     "sentence": "Xerrej: Patata? Iva ċert! Il-ħanut ta' hemm bejjiegħ patata li ma tiflaħx għal xejn.",
@@ -49,7 +49,7 @@
   },
   {
     "sentence": "Bejjiegħ: X'tgħid? Nagħtik borża waħda tal-patata wkoll? Huma fresh tal-lum il-filgħodu.",
-    "audio_stop": 80.1104081632653
+    "audio_stop": 74.28371882086168
   },
   {
     "sentence": "Xerrej: Kemm jiswa l-kilo? Għax għandi bżonn għall-ħobż tal-patata għal nhar it-Tnejn.",
@@ -57,7 +57,7 @@
   },
   {
     "sentence": "Bejjiegħ: Jiena ma nħobb nipprometti ħaġa jekk m'għandix, imma l-imgħarfa hawn hija tal-aħjar kwalità.",
-    "audio_stop": 90.45954648526076
+    "audio_stop": 86.3685260770975
   },
   {
     "sentence": "Xerrej: X'tgħid dwar ftit imgħarfa wkoll? Il-mara tgħid li l-imgħarfa tajba għas-saħħa.",
@@ -65,7 +65,7 @@
   },
   {
     "sentence": "Bejjiegħ: Mhux se tsibu aħjar minn hawnhekk, ngħidlek! Dawn kollha ġew dirett mill-farmer.",
-    "audio_stop": 101.68925170068026
+    "audio_stop": 97.04158730158728
   },
   {
     "sentence": "Xerrej: Prosit! Inti taf x'qed tgħid. F'Birkirkara jitolbuni €3.50 għall-istess ħaġa!",
@@ -73,7 +73,7 @@
   },
   {
     "sentence": "Bejjiegħ: Le, mhux għali xejn - €2 il-kilo tal-imgħarfa. F'postijiet oħra jitolbuk €3!",
-    "audio_stop": 116.51240362811791
+    "audio_stop": 110.95725623582766
   },
   {
     "sentence": "Xerrej: Tajjeb ħafna! Ma tantx nara prezzi hekk tajbin dawn il-jiem.",
@@ -81,7 +81,7 @@
   },
   {
     "sentence": "Bejjiegħ: Iva naturalment! Meta tkunx klijent fidil bħalek, dejjem nagħti prezz tajjeb.",
-    "audio_stop": 127.13902494331064
+    "audio_stop": 122.28603174603174
   },
   {
     "sentence": "Xerrej: Iva, jien dejjem niġi hawnhekk meta nkun fil-Belt. Inti dejjem ġentili u onest.",
@@ -89,7 +89,7 @@
   },
   {
     "sentence": "Bejjiegħ: Ejja, għax inti klijent qadim, nagħtik il-kollu għal €18. Normalment jiswa €22.",
-    "audio_stop": 140.61879818594102
+    "audio_stop": 134.34190476190474
   },
   {
     "sentence": "Xerrej: Kemm jiswew kollox flimkien? Qed nagħti kif ħsibt - kilo qarabaġħli, patata, imgħarfa u xi frawli.",
@@ -97,7 +97,7 @@
   },
   {
     "sentence": "Bejjiegħ: U ara, jekk tiġi nhar it-Tlieta, jkollna ful aħdar frisk minn San Ġwann.",
-    "audio_stop": 152.18206349206346
+    "audio_stop": 148.70095238095234
   },
   {
     "sentence": "Xerrej: Nhar it-Tlieta? Prosit! Jien dejjem nixtri ful aħdar meta jkun friski.",
@@ -105,7 +105,7 @@
   },
   {
     "sentence": "Bejjiegħ: Iva, għandi plastik bag, imma jekk għandek borża tiegħek tkun aħjar. Qed nippruvaw innaqqsu l-plastik.",
-    "audio_stop": 165.63614512471653
+    "audio_stop": 159.45140589569158
   },
   {
     "sentence": "Xerrej: Perfect! Allura ħa nieħu borża tiegħi mill-karozza. Mur għal xejn il-plastik!",
@@ -113,7 +113,7 @@
   },
   {
     "sentence": "Bejjiegħ: Grazzi ħafna! Ara li tiġi kmieni fil-Ħamis għax se jkollna patata ġdida minn ta' Qormi.",
-    "audio_stop": 178.68938775510202
+    "audio_stop": 173.32224489795917
   },
   {
     "sentence": "Xerrej: Sahħa u grazzi tal-prezz tajjeb! Ara li nkun hawn kmieni nhar it-Tlieta, u wkoll nhar il-Ħamis!",
